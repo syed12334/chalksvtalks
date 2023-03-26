@@ -1,0 +1,76 @@
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1214788"}]	Thursday 19th 2023f January 2023 02:20:36 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+admin+Your+OTP+is+7719+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1225858"}]	Friday 20th 2023f January 2023 12:08:31 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+9809+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1231315"}]	Friday 20th 2023f January 2023 03:52:29 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+6130+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1231327"}]	Friday 20th 2023f January 2023 03:53:39 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+3659+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1231341"}]	Friday 20th 2023f January 2023 03:54:51 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+3083+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1231483"}]	Friday 20th 2023f January 2023 04:04:01 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+8666+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1231654"}]	Friday 20th 2023f January 2023 04:17:39 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+admin+Your+OTP+is+3575+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1231876"}]	Friday 20th 2023f January 2023 04:31:06 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+8463+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":""},{"invalidnumber":"890445822"}]	Friday 20th 2023f January 2023 04:31:44 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+admin+Your+OTP+is+2829+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=890445822&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1231887"}]	Friday 20th 2023f January 2023 04:32:36 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+3728+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1296460"}]	Monday 23rd 2023f January 2023 11:52:12 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+5211+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1299413"}]	Monday 23rd 2023f January 2023 03:40:47 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+New+Your+OTP+is+2456+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1345373"}]	Tuesday 24th 2023f January 2023 11:05:20 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+New+Your+OTP+is+5784+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1462506"}]	Saturday 28th 2023f January 2023 12:34:44 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+5179+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1565146"}]	Wednesday 01st 2023f February 2023 10:22:57 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+4691+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1565152"}]	Wednesday 01st 2023f February 2023 10:23:39 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+5355+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1565244"}]	Wednesday 01st 2023f February 2023 10:32:42 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+1475+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1565257"}]	Wednesday 01st 2023f February 2023 10:34:34 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+9661+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1565273"}]	Wednesday 01st 2023f February 2023 10:36:27 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+5121+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1566118"}]	Wednesday 01st 2023f February 2023 10:55:31 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+9437+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1566172"}]	Wednesday 01st 2023f February 2023 10:56:20 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+9030+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1566191"}]	Wednesday 01st 2023f February 2023 10:59:21 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+4092+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1566417"}]	Wednesday 01st 2023f February 2023 11:19:12 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Syed+Your+OTP+is+6339+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9986571768&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1566460"}]	Wednesday 01st 2023f February 2023 11:24:15 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+2383+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1566508"}]	Wednesday 01st 2023f February 2023 11:30:53 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+8629+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1566563"}]	Wednesday 01st 2023f February 2023 11:37:00 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+2369+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1592978"}]	Friday 03rd 2023f February 2023 03:55:20 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+7262+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1594634"}]	Friday 03rd 2023f February 2023 05:45:07 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+admin+Your+OTP+is+6340+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8147979973&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1680443"}]	Monday 13th 2023f February 2023 11:34:52 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+3716+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1688522"}]	Tuesday 14th 2023f February 2023 10:56:10 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+1987+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1836064"}]	Friday 03rd 2023f March 2023 11:06:02 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+5839+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1836214"}]	Friday 03rd 2023f March 2023 11:20:52 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+admin+Your+OTP+is+7986+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9845324064&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1836231"}]	Friday 03rd 2023f March 2023 11:22:11 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear++Your+OTP+is+2221+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=9845324064&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1890169"}]	Thursday 09th 2023f March 2023 02:29:52 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+6355+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1910368"}]	Saturday 11th 2023f March 2023 05:24:05 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+7273+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1910468"}]	Saturday 11th 2023f March 2023 05:37:05 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+5787+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1910542"}]	Saturday 11th 2023f March 2023 05:45:57 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+4019+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1910543"}]	Saturday 11th 2023f March 2023 05:45:58 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=PDLKNI&message=Dear+Test+User+Your+OTP+is+2005+-+Regards%2C+Team+Padalekhani.+Powered+by+Savithru.&sendername=PDLKNI&smstype=TRANS&numbers=8904458227&apikey=1fc9a179-067d-487b-aaff-dc763b7a0c43
